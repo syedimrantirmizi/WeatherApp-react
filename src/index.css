@@ -4,13 +4,13 @@
 
 @font-face {
   font-family: 'montserrat-bold';
-  src: url(fonts/MontserratExtrabold-VGO60.ttf);
+  src: url(/public/fonts/MontserratExtrabold-VGO60.ttf);
 }
 @font-face {
   font-family: 'montserrat';
-  src: url(fonts/MontserratSemibold-Yz368.ttf);
+  src: url(/public/fonts/MontserratSemibold-Yz368.ttf);
 }
 @font-face {
   font-family: 'montserrat-thin';
-  src: url(fonts/MontserratLight-6YemM.otf);
+  src: url(/public/fonts/MontserratLight-6YemM.otf);
 }
